@@ -29,7 +29,7 @@
         <!-- Add your Google Maps API Key in local.properties -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBVsWMAw_-ntvAI5Qrqz3g-cIimTU6H-bU" />
+            android:value="Enter-Your-Maps-API-Here" />
 
     </application>
 
